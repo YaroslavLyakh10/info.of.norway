@@ -1,0 +1,48 @@
+.pristan {
+font-weight: bolder;
+color:blue
+}
+.music {
+font-weight: bold;
+color:blueviolet
+}
+.sport {
+font-weight: bolder;
+color:darkgreen
+}
+.sport{
+text-decoration-style: solid;
+}
+.new {
+font-weight: bolder;
+color: darkblue;
+  }
+.pristan {
+    background: black;
+    color: white;
+    text-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white, 0 0 20px crimson, 0 0 35px crimson, 0 0 40px crimson, 0 0 50px crimson, 0 0 75px crimson;
+  }
+ .urnes {
+  font-weight: bolder;
+  color: darkorange;
+ }
+ .park {
+font-weight: bolder;
+color: chocolate;
+ }
+ .mhm {
+font-weight: bolder;
+color:greenyellow
+ }
+ .ranger {
+font-weight: bolder;
+color: darkseagreen;
+ }
+.tourism {
+ font-weight: bolder;
+ color: blue;
+}
+.hospital {
+ font-weight: bolder;
+color: magenta;
+}
